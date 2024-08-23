@@ -1,0 +1,13 @@
+main()
+{
+	biggest();
+	biggestthree();
+	factorial();
+
+
+	}
+
+
+
+
+
