@@ -2,7 +2,7 @@
    
    biggest() {  
        int a, b;  
-           printf("Enter 2 numberss\n");  
+           printf("Enter 2 num\n");  
 	       scanf("%d %d", &a, &b);  
 	           
 		       if(a > b) 
