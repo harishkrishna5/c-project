@@ -25,4 +25,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install pytest
     - name: run testcases
+      run: pytest
       
